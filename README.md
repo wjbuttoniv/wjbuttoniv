@@ -4,3 +4,7 @@
 
 - <b> Performing Scans in Windows Defender </b>
   - [Windows Defender Scans](https://github.com/wjbuttoniv/Windows-Defender-Scans)
+- <b> Configuring Rules for Windows Defender Firewall </b>
+  - [Windows Defender Firewall](https://github.com/wjbuttoniv/Windows-Defender-Firewall)
+- <b> Scanning PCAP Files with tcpdump and WireShark </b>
+  - [tcpdump and WireShark](https://github.com/wjbuttoniv/tcpdump)
