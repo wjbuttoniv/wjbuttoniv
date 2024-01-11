@@ -10,5 +10,5 @@
   - [tcpdump and WireShark](https://github.com/wjbuttoniv/tcpdump)
  
 <h2>Connect With Me!</h2>
-<img align="left" alt="JohnnyButton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/johnny-button/ </br>
+<img align="left" alt="JohnnyButton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />   https://www.linkedin.com/in/johnny-button/ </br>
 📃 https://docs.google.com/document/d/1fM_hja2ldPZCNOSWpvSXMR9xBGggHtqBPy5q1k16sNc/edit?usp=sharing
