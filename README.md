@@ -1,4 +1,5 @@
 <h1>Hi, I'm Johnny! <br/><a href="https://github.com/wjbuttoniv"> </a> </h1>
+<h3>I'm an aspiring Ethical Hacker/Red Teamer and full time Cybersecurity student!</h3>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
