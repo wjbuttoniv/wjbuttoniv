@@ -3,6 +3,9 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+- <b> Basic Enumeration, Footprinting, Foothold, and Privilege Escalation
+  - [Basic Pentest](https://github.com/wjbuttoniv/basicpentest/)
+  - [Video](https://www.youtube.com/watch?v=4kXbV7DvVp8)
 - <b> Performing Scans in Windows Defender </b>
   - [Windows Defender Scans](https://github.com/wjbuttoniv/Windows-Defender-Scans)
 - <b> Configuring Rules for Windows Defender Firewall </b>
